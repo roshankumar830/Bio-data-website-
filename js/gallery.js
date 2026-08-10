@@ -16,6 +16,17 @@ const galleryPhotos = [
     "12 image .jpeg",
     "13 image .jpeg",
     "14 image.jpeg",
+     "roshan1.jpeg",
+    "roshan2.jpeg",
+    "roshan3.jpeg",
+    "roshan4.jpeg",
+    "roshan5.jpeg",
+    "roshan6.jpeg",
+    "roshan7.jpeg",
+    "roshan8.jpeg",
+    "roshan9.jpeg",
+    "roshan10.jpeg",
+    "roshan11.jpeg",
 
 ];
 
